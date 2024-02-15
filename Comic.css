@@ -1,0 +1,14 @@
+
+body {
+    background-image: url('./Comic\ \(\ undone\ \).svg');
+    background-size: cover;
+    background-position: center;
+    overflow-y: auto;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 3500px;
+    display: flex;
+    align-items: center;
+}
